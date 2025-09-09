@@ -1,0 +1,6 @@
+@resume_tailor_HostAddress = http://localhost:5078
+
+GET {{resume_tailor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
