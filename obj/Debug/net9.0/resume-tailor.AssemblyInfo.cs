@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("resume-tailor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa4302a703ae8df393db4eae6a26463f70a846b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("resume-tailor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("resume-tailor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
