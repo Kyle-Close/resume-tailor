@@ -1,9 +1,13 @@
-1. Clone the repo
+How to Run:
+1. Make sure you have dotnet installed (9.0) -> https://dotnet.microsoft.com/en-us/download
+2. Clone the repo
 
 - ``git clone https://github.com/Kyle-Close/resume-tailor.git``
 
-2. CD into directory. Run the server
+3. CD into directory. 
 
 - ``cd resume-tailor``
+
+4. Run the server
 
 - ``dotnet run .``
